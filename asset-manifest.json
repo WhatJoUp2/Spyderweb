@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Spyderweb/static/css/main.3c46099b.chunk.css",
+    "main.js": "/Spyderweb/static/js/main.4af8ec5c.chunk.js",
+    "main.js.map": "/Spyderweb/static/js/main.4af8ec5c.chunk.js.map",
+    "runtime-main.js": "/Spyderweb/static/js/runtime-main.d7f36ddd.js",
+    "runtime-main.js.map": "/Spyderweb/static/js/runtime-main.d7f36ddd.js.map",
+    "static/js/2.d1bf0201.chunk.js": "/Spyderweb/static/js/2.d1bf0201.chunk.js",
+    "static/js/2.d1bf0201.chunk.js.map": "/Spyderweb/static/js/2.d1bf0201.chunk.js.map",
+    "static/js/3.b00e391d.chunk.js": "/Spyderweb/static/js/3.b00e391d.chunk.js",
+    "static/js/3.b00e391d.chunk.js.map": "/Spyderweb/static/js/3.b00e391d.chunk.js.map",
+    "index.html": "/Spyderweb/index.html",
+    "static/css/main.3c46099b.chunk.css.map": "/Spyderweb/static/css/main.3c46099b.chunk.css.map",
+    "static/js/2.d1bf0201.chunk.js.LICENSE.txt": "/Spyderweb/static/js/2.d1bf0201.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7f36ddd.js",
+    "static/js/2.d1bf0201.chunk.js",
+    "static/css/main.3c46099b.chunk.css",
+    "static/js/main.4af8ec5c.chunk.js"
+  ]
+}
