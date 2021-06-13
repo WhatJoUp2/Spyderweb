@@ -1,0 +1,59 @@
+html,
+body {
+    height: 100%;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.console {
+    height: 650px;
+    width: 900px;
+    border: none;
+    background-color: #333;
+    resize: none;
+    padding: 20px;
+    box-sizing: border-box;
+    color: red;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: default;
+    overflow: overlay;
+}
+.console:focus {
+    outline: none;
+}
+
+body {
+    margin: 0;
+    font-family: monospace, monospace;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #333;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
